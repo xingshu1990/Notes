@@ -1,4 +1,4 @@
-# Lede-Compilation-Notes-
+# Lede-Compilation-Notes
 xingshu1990自用编译杂记，记录自己编译LEDE固件碰到的问题，解决办法。
 
 ## 电脑配置
@@ -11,3 +11,9 @@ xingshu1990自用编译杂记，记录自己编译LEDE固件碰到的问题，�
 也没有明显感觉电脑有卡顿。
 
 电脑系统如图，安装的是W11，
+虚拟机使用的是virtualbox7.0，
+编译用的系统，使用的是ubuntu20.04（ubuntu-20.04.6-desktop-amd64）
+
+virtualbox 和ubuntu的安装，这里不做介绍。
+virtualbox和ubuntu安装好以后，要设置虚拟机里的网卡1的【连接方式】，更改为【桥接网卡】，
+如果可以，还要点击高级，混杂模式选择【全部允许】
