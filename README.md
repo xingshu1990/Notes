@@ -17,3 +17,5 @@ xingshu1990自用编译杂记，记录自己编译LEDE固件碰到的问题，�
 virtualbox 和ubuntu的安装，这里不做介绍。
 virtualbox和ubuntu安装好以后，要设置虚拟机里的网卡1的【连接方式】，更改为【桥接网卡】，
 如果可以，还要点击高级，混杂模式选择【全部允许】
+![网卡设置](https://raw.githubusercontent.com/xingshu1990/Lede-Compilation-Notes/main/images/QQ%E6%88%AA%E5%9B%BE20231230142311.jpg)
+
